@@ -1,0 +1,15 @@
+.circle{
+    list-style:circle;
+}
+p {
+margin-left: 50%;
+    width: 200px;
+    height: 50px;
+    background: rgba(104, 130, 138, 0.219);
+    border-color: #000;
+    padding-top: 25px;
+    padding-left: 10px;
+  }
+  div{
+      font-size: 22px;;
+  }

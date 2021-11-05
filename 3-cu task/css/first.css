@@ -1,0 +1,40 @@
+/* label {
+    font-family: Georgia, "Times New Roman", Times, serif;
+    font-size: 18px;
+    color: #333;
+    height: 20px;
+    /* width: 200px; */
+    /* margin-top: 10px;
+    margin-left: 10px;
+    text-align: right;
+    clear: both;
+    float:left;
+    margin-right:15px;
+} */
+/* .form input[type="checkbox"], .form input[type="radio"] */
+/* form{
+    display:inline;
+  } */
+  /* form input[type="checkbox"], form input[type="radio"] {
+	float: none;
+	display: inline-block;
+    margin-bottom: 10px;
+	}
+    form label {
+        display: inline-block;
+    } */
+input{ 
+    margin-left: 10px;
+    margin-bottom: 5px;
+    
+    display: inline-block;
+}
+
+select{
+    margin-bottom: 5px;
+}
+p{
+    font-size: 17px;
+}
+label{
+}
